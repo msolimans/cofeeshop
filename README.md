@@ -1,1 +1,1 @@
-CoffeeShop using spring-boot, with services demo implemented as a project in class Web Applications Architecture
+CoffeeShop is web interface using SpringBoot as an MVC along with API in the backend and Hibernate as ORM
